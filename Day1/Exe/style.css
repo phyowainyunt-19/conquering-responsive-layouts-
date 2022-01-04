@@ -7,17 +7,16 @@ body {
   font-family: serif;
 }
 
-.container {
+/* .container {
   background: #23424a;
   color: white;
 
   width: 80%;
   margin: 0 auto;
   padding: 5rem;
-  /* height: 300px; */
-}
+} */
 
-/* .parent {
+.parent {
   background-color: #23424a;
   padding: 50px;
   width: 80%;
@@ -28,4 +27,4 @@ body {
   background-color: #38cfd9;
   width: 50%;
   height: 250px;
-} */
+}
