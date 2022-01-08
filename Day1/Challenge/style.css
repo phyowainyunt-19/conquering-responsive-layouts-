@@ -23,16 +23,16 @@ body {
 
 .container {
   background-color: #23424a;
-  padding: 50px;
+  color: white;
+
   width: 80%;
   margin: 0 auto;
-  color: white;
+
+  padding: 2em;
 }
 
-.intro-content {
+.intro-content,
+.body-content {
   width: 50%;
-}
-
-.welcome-content{
-  width: 50%;
+  margin-left: 3rem;
 }
