@@ -18,13 +18,15 @@ body {
 
 .parent {
   background-color: #23424a;
-  padding: 50px;
-  width: 80%;
+  width: 90rem;
+  height: 41.188rem;
   margin: 0 auto;
+  padding-left: 7.625rem;
+  padding-top: 9.25rem;
 }
 
 .child {
   background-color: #38cfd9;
-  width: 50%;
-  height: 250px;
+  width: 44.375rem;
+  height: 22.75rem;
 }
